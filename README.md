@@ -1,9 +1,9 @@
 # S2T
 Name:
-  NguyễnXuânSơnITITIU20295
-  Nguyễn Công Sáng - ITITIU20292
-  Nguyễn Trần Duy Thức - ITITIU20318
-  Nguyễn Trần Quốc Thịnh - ITITIU20312
+  NguyễnXuânSơnITITIU20295\\
+  Nguyễn Công Sáng - ITITIU20292\\
+  Nguyễn Trần Duy Thức - ITITIU20318\\
+  Nguyễn Trần Quốc Thịnh - ITITIU20312\\
 OOP - game
 Game name: **PacMan**
 Decribe:
@@ -12,8 +12,8 @@ Placed at the four corners of the maze are large flashing "energizers", or "powe
 The game increases in difficulty as the player progresses; the ghosts become faster and the energizers' effect decreases in duration to the point where the ghosts will no longer turn blue and edible. To the sides of the maze are two "warp tunnels", which allow Pac-Man and the ghosts to travel to the opposite side of the screen. Ghosts become slower when entering and exiting these tunnels. Levels are indicated by the fruit icon at the bottom of the screen. In-between levels are short cutscenes featuring Pac-Man and Blinky in humorous, comical situations. The game becomes unplayable at the 256th level due to an integer overflow that affects the game's memory.
 I chose it because:
 - this game is associated with our 2D game childhood. Before 3D, fps, moba, PvP, MMORBG,...etc games, this game was extremely popular among our genz age. Because of the game's endless and simple gameplay, it keeps us entertained after tiring working days.-
-![image](https://user-images.githubusercontent.com/104011499/164027401-fcd6e9b5-1775-4f14-baa0-01ade0486c35.png)
-https://www.youtube.com/watch?v=cJkMw_htaD0
+- ![image](https://user-images.githubusercontent.com/104011499/164027401-fcd6e9b5-1775-4f14-baa0-01ade0486c35.png)
+- https://www.youtube.com/watch?v=cJkMw_htaD0
 The feature that we want in the game is to use the keyboard to move the character to control the character to eat items and collect points:
 Primary features: 
 - accumulate points (to compete with someone.)
