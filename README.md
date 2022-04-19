@@ -1,6 +1,6 @@
 # S2T
 Name:
-  NguyễnXuânSơnITITIU20295\\
+  \\NguyễnXuânSơnITITIU20295\\
   Nguyễn Công Sáng - ITITIU20292\\
   Nguyễn Trần Duy Thức - ITITIU20318\\
   Nguyễn Trần Quốc Thịnh - ITITIU20312\\
