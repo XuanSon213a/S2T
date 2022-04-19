@@ -1,5 +1,5 @@
 # S2T
-Name: - Nguyễn Xuân Sơn - ITITIU20295<space><space>
+Name: - <space>NguyễnXuânSơnITITIU20295<space>
       - Nguyễn Công Sáng - ITITIU20292
       - Nguyễn Trần Duy Thức - ITITIU20318
       - Nguyễn Trần Quốc Thịnh - ITITIU20312
