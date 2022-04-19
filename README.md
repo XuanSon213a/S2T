@@ -1,9 +1,9 @@
 # S2T
 Name:
-  \\NguyễnXuânSơnITITIU20295\\
-  Nguyễn Công Sáng - ITITIU20292\\
-  Nguyễn Trần Duy Thức - ITITIU20318\\
-  Nguyễn Trần Quốc Thịnh - ITITIU20312\\
+  NguyễnXuânSơnITITIU20295
+  Nguyễn Công Sáng - ITITIU20292
+  Nguyễn Trần Duy Thức - ITITIU20318
+  Nguyễn Trần Quốc Thịnh - ITITIU20312
 OOP - game
 Game name: **PacMan**
 Decribe:
@@ -21,5 +21,5 @@ Primary features:
                              + Use the control buttons on the keyboard to cross the terrain
                                to accumulate points.
                              + There are 3 lives per play
-Extra features: there are pellets that increase strength and movement speed.
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0doY0VoWldyRTlZQmwzSnZ0QU85cW1UUl9Gd3xBQ3Jtc0ttd0xKMEduLTA5N1psV2Y5M3ZXSExqem9qNVRHMnNxclhOOExnbHdyV20yLWMweXI0SHpUbnhOX3BudXJDbTdxMmRqaHZmOEJJVkxkcm1RejRVR2NTR0FmamE0b3g0Sl84czFfdm1UbGF4Y055c1c3MA&q=https%3A%2F%2Fgithub.com%2FGaspared%2FPacman
+- Extra features: there are pellets that increase strength and movement speed.
+- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0doY0VoWldyRTlZQmwzSnZ0QU85cW1UUl9Gd3xBQ3Jtc0ttd0xKMEduLTA5N1psV2Y5M3ZXSExqem9qNVRHMnNxclhOOExnbHdyV20yLWMweXI0SHpUbnhOX3BudXJDbTdxMmRqaHZmOEJJVkxkcm1RejRVR2NTR0FmamE0b3g0Sl84czFfdm1UbGF4Y055c1c3MA&q=https%3A%2F%2Fgithub.com%2FGaspared%2FPacman
