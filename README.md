@@ -20,7 +20,7 @@ Nguyễn Công Sáng - ITITIU20292
 Nguyễn Trần Duy Thức - ITITIU20318
 Nguyễn Trần Quốc Thịnh - ITITIU20312
 ```
-- Game name: **Battle Tank**
+- Game name: **GunDamvsMonster**
 ## Task
 - We use *Trello* to divide the number of works for each member.
 - https://trello.com/b/H0Ec9d9d/oop 
