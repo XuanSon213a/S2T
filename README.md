@@ -86,6 +86,7 @@ Completed:
 * Add items function to increase player power
 Incompleted:
 * Score leaderboard for each turn.
+* GUI input name and password.
 Future features:
 * Create a master server so you can play online.
 *Let the player choose the mode when entering the game interface:single mode / mode >2 players....
