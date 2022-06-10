@@ -42,6 +42,8 @@ Nguyễn Trần Quốc Thịnh - ITITIU20312
 ## Demo
 
 [2022-06-10 00-17-38.zip](https://github.com/XuanSon213a/S2T/files/8872597/2022-06-10.00-17-38.zip)
+![2022-06-10-00-17-38](https://user-images.githubusercontent.com/104011499/172982140-82d30160-3166-4822-8424-affba2f6fe30.gif)
+
 
 ## UML
 https://app.diagrams.net/#G1G-ekLIhI7CM9tFSxzRKLGTk_PzfDqckT
